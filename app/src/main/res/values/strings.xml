@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShopifyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_description">Product Description</string>
+    <string name="todo3">TODO</string>
+    <string name="vendor_name">Vendor Name</string>
+    <string name="category">Category</string>
+    <string name="color">Color</string>
+    <string name="available_color">Available Color</string>
+    <string name="product_weight">Product Weight (KG)</string>
+    <string name="product_price">Product Price ($)</string>
+    <string name="todo2">TODO</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="shopfiy">Shopify</string>
+    <string name="todo4">TODO</string>
+</resources>
